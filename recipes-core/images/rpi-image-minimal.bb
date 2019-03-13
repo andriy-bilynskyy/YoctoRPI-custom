@@ -24,6 +24,7 @@ IMAGE_INSTALL += " \
     tzdata-australia \
     tzdata-europe \
     tzdata-pacific \
+    rng-tools \
     "
 
 inherit extrausers
